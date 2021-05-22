@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ui-package
+ */
+export * from './lib/ui-package.service';
+export * from './lib/ui-package.component';
+export * from './lib/ui-package.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3VpLXBhY2thZ2Uvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsNEJBQTRCLENBQUM7QUFDM0MsY0FBYyx5QkFBeUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiB1aS1wYWNrYWdlXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvdWktcGFja2FnZS5zZXJ2aWNlJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvdWktcGFja2FnZS5jb21wb25lbnQnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi91aS1wYWNrYWdlLm1vZHVsZSc7XHJcbiJdfQ==
